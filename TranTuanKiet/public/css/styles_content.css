@@ -1,0 +1,141 @@
+
+.text-1-content{
+    font-size: 20px;
+    font-weight: bold;
+    color: #d3b025;
+}
+.text-2-content{
+    font-size: 40px;
+    font-weight: bold;
+}
+.item {
+    width: 275px;
+    height: 315px;
+    margin-top: 30px;
+}
+.a-i-content{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding-top: 20px;
+}
+.a-i-content > i {
+    font-size: 50px;
+    height: 100px;
+    width: 100px;
+    color: #000;
+    background: #ffe22c;
+    border-radius: 50%;
+    padding-top: 30px;
+    text-align: center;
+    margin: 40px 0;
+    
+}
+.r-y{
+    background: #d3b025;
+    border-radius: 20px;
+    height: auto;  
+    padding: 50px;
+}
+.c2{
+    padding-top: 80px;
+}
+.chapter{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.cl{
+    font-weight: bold;
+   
+}
+.cr{
+    font-weight: bold;
+    text-align: right;
+    font-size: 20px;
+}
+.p-center {
+    margin-top: 20px;
+    color: #827580;
+    margin-bottom: 20px;
+}
+.btn-purchasenow {
+    display: inline-block;
+    background-color: #000000;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 10px 24px;
+    border-radius: 4px;
+}
+.btn-purchasenow>a{
+    text-decoration: none;
+    color: white; 
+    white-space: nowrap;
+}
+.img-content-2{
+    position: absolute;
+    display: block;
+    height: 500px;
+    width: max-content;
+    left: 30%;
+    right:0;
+}
+.img-content-2>img{
+    height: 450px;
+}
+.content-3{
+    margin-top: 200px;
+    
+}
+.ct-3{
+    position: relative;
+}
+.con{
+    overflow: hidden;
+}
+.con>img{
+    object-fit: contain;
+    padding-left: 30px;
+
+}
+.cr-3{
+    padding-top: 150px;
+    padding-left: 150px;
+}
+.cr-3>h1{
+    color: #d3b025;
+    font-size: 90px;
+    
+}
+.b-ct{
+    font-size: 24px;
+    font-family: sans-serif;
+    padding-left: 150px;
+}
+.a-tae{
+    color: #000;
+    font-weight: bold;
+}
+.content-4{
+    background-color: #f8f9fa;
+}
+.ct-4-1{
+    padding-top: 50px;
+}
+.brd-cirle-img{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 50%;
+    background-color: #ff0808;
+    background-image: url('../img/avtar-24.jpg');
+}
+.rec-info{
+    height: 200px;
+    background: #000;
+}
+.rec-p-text{
+
+}
