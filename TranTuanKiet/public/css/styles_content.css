@@ -125,17 +125,27 @@
     padding-top: 50px;
 }
 .brd-cirle-img{
-    height: 100px;
-    width: 100px;
-    margin: 20px;
+    height: 80px;
+    width: 80px;
+    margin: 15px;
     border-radius: 50%;
-    background-color: #ff0808;
+    background-size: contain;
     background-image: url('../img/avtar-24.jpg');
 }
-.rec-info{
-    height: 200px;
-    background: #000;
+.rec-into{
+    display: inline-block;
+    background: hsl(0deg 0% 100%);
+    margin: 0px 2px;
+   
 }
-.rec-p-text{
 
+.rec-p-text{
+    padding-top: 30px;
+    font-size: 10px;
+    white-space: nowrap;
+}
+.star{
+    width: 100px;
+    height: 50px;
+    background: #000;
 }
