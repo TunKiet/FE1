@@ -135,7 +135,7 @@
 .rec-into{
     display: inline-block;
     background: hsl(0deg 0% 100%);
-    margin: 0px 2px;
+    margin: 0px 10px 0px 10px;
    
 }
 
@@ -145,7 +145,67 @@
     white-space: nowrap;
 }
 .star{
-    width: 100px;
-    height: 50px;
     background: #000;
+    padding: 5px;
+}
+.check-all{
+    margin-top: 30px;
+}
+#free-chapter{
+    margin: 30px 0 30px 0;
+    padding: 50px 80px 50px 200px;
+    background-color: hsl(47.93deg 70.16% 48.63%);
+
+}
+#form-sendemail{
+    padding: 0 50px 0 0;
+}
+.content-5{
+    background: #f8f9fa;
+    padding: 40px 0;
+    margin-bottom: 50px;
+}
+.btn-browse{
+    display: inline-block;
+    padding: 15px;
+    background: #000;
+    font-family: sans-serif;
+}
+#btn-ct-5{
+    background: hsl(231.43deg 100% 95.88%);
+    color: hsl(230.47deg 83.33% 60%);
+    display: inline-block;
+    padding: 2px 5px;
+    border-radius: 10px;
+}
+#btn-ct-5-1{
+    background: hsl(167.59deg 59.18% 90.39%);
+    color: hsl(156.69deg 100% 34.31%);
+    display: inline-block;
+    padding: 2px 5px;
+    border-radius: 10px;
+}
+.btn-buy-ct5{
+    font-size: 10px;
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: hsl(230.41deg 82.44% 59.8%);
+    color: white;
+}
+.btn-buy-ct5-1{
+    font-size: 10px;
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: hsl(156.69deg 100% 34.31%);
+    color: white;
+}
+.client-box{
+    background-position: center;
+    position: relative;
+}
+.content-6{
+    background-image: url('../img/demo-ebook-07.png');
+    background-position: center;
 }
