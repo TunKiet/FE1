@@ -5,17 +5,23 @@ header{
     background: #4c453f;
     padding-top: 10px;
 }
+body{
+    overflow-x: hidden;
+}
+
 .navbar-light .navbar-nav .nav-link {
     color: rgb(255 255 255);
     position: relative;
     z-index: 3;
 }
 .logo{
+    position: relative;
     display: block;
     height: 28px;
     width: 114px;
     margin-left: 20px;
     color: #fff;
+    z-index: 1;
 }
 .btn-3d {
     position: relative;
@@ -62,17 +68,16 @@ header{
 }
 .h-cleft{
     position: relative;
-    height: 683px;
-    width: 683px;
+    height: 680px;
+    width: 600px;
     z-index: 1;
 }
 .h-cleft>img{
     position: absolute;
     display: block;
-    height: 882px;
-    width: 683px;
-    left: 20%;
-    right: 0;
+    height: 850px;
+    /* width: 100%; */
+    left: 12%;
     bottom: 5%;
 }
 .h-cright p {
@@ -110,7 +115,7 @@ header{
     position: relative;
     display: flex;
     perspective: 800px;
-    margin-left: 160px;
+    margin-left: 100px;
     width: 430px;
     height: 60px;
     padding: 10px;
